@@ -87,7 +87,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="Qri-g6-b6f"/>
                     <connections>
-                        <outlet property="konnichiwa" destination="jMJ-ef-blF" id="uVW-2C-iDz"/>
+                        <outlet property="konnichiwaLabel" destination="jMJ-ef-blF" id="Ni2-Ri-0h4"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ssr-uO-qqF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

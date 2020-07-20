@@ -19,9 +19,4 @@ class ResultViewController: UIViewController {
         
         konnichiwaLabel.text = "こんにちは、\(name1)さん"
         }
-     
-
 }
-//konnichiwaLabel.text = "こんにちは、\(name)さん"
-//let name = String()
-//var name2:String? = nil
